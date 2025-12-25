@@ -1,0 +1,6 @@
+name: MoreMobHeadsExtension
+main: com.MoreMobHeadsExtension.MoreMobHeadsExtension
+version: 1.0
+api-version: 1.21
+author: JustinPhong
+description: An extension for the More Mob Heads datapack that follows the original game mechanics, making heads drop only when a mob is killed by a charged creeper.
