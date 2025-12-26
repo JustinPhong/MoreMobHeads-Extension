@@ -46,7 +46,7 @@ Download **both**:
    ```
    world/datapacks
    ```
-3. Place the datapack folder or `.zip` file inside
+3. Place the datapack `.zip` file inside
 4. Restart the server or run:
 
    ```
