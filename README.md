@@ -5,6 +5,7 @@
 An extension for the **More Mob Heads** datapack that restores **vanilla Minecraft mechanics**, where mob heads only drop when a mob is killed by a **charged creeper**.
 
 This project is designed for **Paper servers** and works alongside the original datapack to control how mob heads are obtained.
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21+-brightgreen)
 
 ---
 
