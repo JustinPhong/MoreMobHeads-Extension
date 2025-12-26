@@ -33,8 +33,8 @@ This project is designed for **Paper servers** and works alongside the original 
 
 Download **both**:
 
-* 🧩 **More Mob Heads datapack**
-* 🔌 **MoreMobHeadsExtension plugin (.jar)**
+* 🧩 **MoreMobHeads Extension datapack**
+* 🔌 **MoreMobHeads Extension (.jar)**
 
 ---
 
