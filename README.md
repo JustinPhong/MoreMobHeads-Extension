@@ -1,7 +1,7 @@
 ---
 
 # 🧠 MoreMobHeads Extension
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21+-brightgreen)](https://www.minecraft.net/) [![Paper](https://img.shields.io/badge/Server-Paper-blue)](https://papermc.io/) [![Java](https://img.shields.io/badge/Java-17+-orange)](https://adoptium.net/) [![Datapack](https://img.shields.io/badge/Datapack-Required-yellow)](https://minecraft.wiki/w/Data_pack)
+![Minecraft](https://img.shields.io/badge/Minecraft-1.21+-brightgreen) ![Paper](https://img.shields.io/badge/Server-Paper-blue) ![Java](https://img.shields.io/badge/Java-17+-orange) ![Datapack](https://img.shields.io/badge/Datapack-Required-yellow)
 
 An extension for the **More Mob Heads** datapack that restores **vanilla Minecraft mechanics**, where mob heads only drop when a mob is killed by a **charged creeper**.
 
